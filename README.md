@@ -14,7 +14,7 @@ $ git clone https://github.com/Malise-Obert/Instagram-photo-display.git
 $ cd instagram-photo-display
 $ composer install
 ```
-Composer install will pull all your required dependancies for this code base.
+'Composer install' will pull all your required dependancies for this code base.
 
 Next if not already done login to your instagram online, and then create using this developer link: (https://www.instagram.com/developer/) manage / create a new client whichever is appropriate. This process will help setp and offer the config details needed for your environment files as specified in the .env.example file at the end as follows:
 
