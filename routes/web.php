@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'InstagramController@redirectToInstagramAuthorization');
+
+Route::get('/login/instagram/callback', 'InstagramController@handleInstagramCallback');
