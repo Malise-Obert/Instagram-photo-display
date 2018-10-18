@@ -16,7 +16,7 @@ $ composer install
 ```
 'Composer install' will pull all your required dependancies for this code base.
 
-Next if not already done login to your instagram online, and then create using this developer link: (https://www.instagram.com/developer/) manage / create a new client whichever is appropriate. This process will help setp and offer the config details needed for your environment files as specified in the .env.example file at the end as follows:
+Next if not already done login to your instagram online, and then using this developer link: (https://www.instagram.com/developer/) manage / create a new client whichever is appropriate. This process will help setp and offer the config details needed for your environment file as specified in the .env.example file at the end as follows:
 
 You may need to copy and create an .env from .env.example using the cp command
 
